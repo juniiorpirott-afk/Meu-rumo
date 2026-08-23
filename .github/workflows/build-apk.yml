@@ -27,7 +27,7 @@ jobs:
       - name: Descompactar projeto
         run: |
           mkdir projeto
-          unzip -q MeuRumo_MeuRumo_GitHub_APK_CORRIGIDO.zip -d projeto
+          unzip -q MeuRumo_GitHub_APK_CORRIGIDO.zip -d projeto
           cd projeto
           ls -la
 
